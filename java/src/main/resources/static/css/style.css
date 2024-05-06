@@ -33,7 +33,7 @@ header .logo{
     text-decoration: none;
     font-weight: bolder;
     font-size: 25px;
-    color: #333;
+    color: #fffbd6;
 }
 
 header .navbar ul{
@@ -49,12 +49,12 @@ header .navbar ul li a{
     text-decoration: none;
     font-size: 20px;
     padding: 20px;
-    color: #333;
+    color: #393528;
     display: block;
 }
 
 header .navbar ul li a:hover{
-    background: #c71f1f;
+    background: #e3dca4;
     color: #fff;
 }
 
